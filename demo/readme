@@ -1,0 +1,5 @@
+To create an api
+
+Run mvn spring-boot:Run make sure that
+On the PORTS tab there is an active port running
+then configure the Visibility to public state
